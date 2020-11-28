@@ -1,8 +1,8 @@
 import React, { Fragment } from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
-import { NavLink } from 'react-router-dom';
+import { NavLink, Link } from 'react-router-dom';
 import './Menu.css'
-import { FaInfoCircle } from 'react-icons/fa';
+import { FaInfoCircle, FaLinkedin, FaEnvelope } from 'react-icons/fa';
 
 function Menu() {
   return (
@@ -11,6 +11,8 @@ function Menu() {
         <h1 className="text-light m-auto">Développeur Web Junior</h1>
         <Nav>
           <NavLink className="text-reset mr-2" to="/about"><FaInfoCircle style={{color:"#ccc"}}/></NavLink>
+          <Link className="text-reset mr-2" to={{ pathname:"https://www.linkedin.com/in/xavier-froment-654734177/"}} target="_blank"><FaLinkedin style={{color:"#ccc"}}/></Link>
+          <Link to={{pathname: "mailto:fromentxavier@gmail.com"}} target="_blank"><FaEnvelope style={{color:"#ccc"}}/></Link>
         </Nav>
       </Navbar>
       <Navbar bg="dark" variant="dark" expand="lg" sticky="top" >

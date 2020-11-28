@@ -14,6 +14,7 @@ const Knowledge = () => {
               <li>HTML / CSS</li>
               <li>JavaScript</li>
               <li>React.JS</li>
+              <li>Bootstrap 4</li>
               <li>Java</li>
               <li>SpringBoot</li>
               <hr/>

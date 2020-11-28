@@ -1,33 +1,37 @@
 const datahome = [
   {
-    picture: 'Je suis une image',
+    picture: '../jpg/knowledge.jpg',
+    picturealt: 'knowledge',
     overlaying: {
       title: 'Connaissances',
-      description: 'Je suis une description',
+      description: "Consultez les connaissances que j'ai acquises",
       lien: '/knowledge'
     }
   },
   {
-    picture: 'Je suis une image',
+    picture: '../jpg/career.jpg',
+    picturealt: 'career',
     overlaying: {
       title: 'Parcours',
-      description: 'Je suis une description',
+      description: 'Consultez mon parcours professionnel',
       lien: '/career'
     }
   },
   {
-    picture: 'Je suis une image',
+    picture: '../jpg/skills.jpg',
+    picturealt: 'skills',
     overlaying: {
       title: 'Compétences',
-      description: 'Je suis une description',
+      description: 'Consultez mes compétenses acquises',
       lien: '/skills'
     }
   },
   {
-    picture: 'Je suis une image',
+    picture: '../jpg/portfolio.jpg',
+    picturealt: 'portfolio',
     overlaying: {
       title: 'Portfolio',
-      description: 'Je suis une description',
+      description: "Consultez les projets que j'ai réalisés",
       lien: '/portfolio'
     }
   }

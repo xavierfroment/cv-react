@@ -4,13 +4,5 @@
   height: 90px; 
   padding: 10px 16px; 
   border-radius: 50%; 
-  /*font-size: 12px; 
-  text-align: center;*/ 
 } 
 
-.jumbotron {
-  background: url("../img/bground.jpg") no-repeat center center fixed;
-  background-size: cover;
-  height: 100vh;
-  margin: 0;
-}
