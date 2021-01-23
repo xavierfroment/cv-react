@@ -1,3 +1,11 @@
+.loader-page {
+  height: 94vh;
+}
+.loader-content {
+  margin-top: 45vh; 
+  transform: translateY(-50%);
+}
+
 .lds-roller {
   display: inline-block;
   position: relative;
@@ -15,7 +23,7 @@
   width: 7px;
   height: 7px;
   border-radius: 50%;
-  background: rgb(3, 3, 3);
+  background: #dee4e7;
   margin: -4px 0 0 -4px;
 }
 .lds-roller div:nth-child(1) {

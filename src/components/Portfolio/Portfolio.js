@@ -1,10 +1,16 @@
 import React from 'react'
+import PortfolioGrid from './PortfolioGrid'
 
 const Portfolio = () => {
   return (
-    <div className="container text-center">
+    <div className="container text-center text-light">
       <h1>Portfolio</h1>
-      <p>Du contenu sera bientôt ajouté dans cette section</p>
+      <br/>
+      <br/>
+      <PortfolioGrid/>
+      <br/>
+      <br/>
+      <p>Du contenu sera ajouté progressivement dans cette section</p>
     </div>
   )
 }

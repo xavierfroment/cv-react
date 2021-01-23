@@ -33,7 +33,6 @@
 .timeline-item-content {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
   border-radius: 5px;
-  background-color: #fff;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
@@ -46,7 +45,7 @@
 
 .timeline-item-content::after {
   content: ' ';
-  background-color: #fff;
+  background-color:#343a40;
   box-shadow: 1px -1px 1px rgba(0, 0, 0, 0.2);
   position: absolute;
   right: -7.5px;
@@ -68,7 +67,7 @@
 }
 
 .timeline-item-content .tag {
-  color: #fff;
+  color:#fff;
   font-size: 12px;
   font-weight: bold;
   top: 5px;
@@ -110,7 +109,7 @@ text-decoration: none;
 }
 
 .timeline-item-content .circle {
-  background-color: #fff;
+  background-color: #e17b77;
   border: 3px solid #e17b77;
   border-radius: 50%;
   position: absolute;

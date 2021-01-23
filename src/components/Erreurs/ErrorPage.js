@@ -6,7 +6,7 @@ const ErrorPage = (props) => {
   }, 5000);
 
   return (
-    <div className="container mx-auto m-3">
+    <div className="container mx-auto m-3 text-light">
       <h1>Oups !</h1>
       <h2>Cette page</h2>
       <h2>n'existe pas</h2>
