@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import Menu from './Menu';
 import Home from './Accueil/Home';
 import Experiences from './Parcours/Experiences';
@@ -11,7 +11,7 @@ import About from './APropos/About';
 class Routes extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <Router>
         <Menu />
         <Switch>
           <Route exact path="/" component={Home} />
@@ -21,7 +21,7 @@ class Routes extends Component {
           <Route path="/about" component={About} />
           {/*<Route component={ErrorPage}/>*/}
         </Switch> 
-      </BrowserRouter> 
+      </Router> 
     )
   }
 }
