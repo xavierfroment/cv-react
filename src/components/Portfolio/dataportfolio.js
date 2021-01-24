@@ -1,6 +1,6 @@
 const dataportfolio = [
   {
-    preview: "../img/portfolio/cvold.png",
+    preview: "./jpg/portfolio/cvold.png",
     altpreview: "ancien cv",
     lienfolio: "http://xavierfroment.github.io/cvold",
     titre: "Premier Site CV (2019)",
