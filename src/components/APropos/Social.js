@@ -13,7 +13,7 @@ const Social = () => {
       </div> 
       <br/>
       <div className="text-center"> {/*Download CV button*/}
-        <Link to={{pathname: "../pdf/cvxavierfroment.pdf"}} target="_blank"><button className="btn btn-primary btn-lg"><FaDownload /> Téléchargez ce CV</button></Link>
+        <Link to={{pathname: "../img/pdf/cvxavierfroment.pdf"}} target="_blank"><button className="btn btn-primary btn-lg"><FaDownload /> Téléchargez ce CV</button></Link>
       </div>
     </div>
   )
