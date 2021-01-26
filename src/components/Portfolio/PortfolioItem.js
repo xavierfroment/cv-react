@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
 const PortfolioItem = ({dataportfolio}) => (
   <div className="col-lg-4 col-md-6 col-md-auto mb-4">
@@ -13,7 +12,7 @@ const PortfolioItem = ({dataportfolio}) => (
         <p>{dataportfolio.desc}</p>
         <hr/>
         <div>
-          <Link to={{pathname: `${dataportfolio.lienfolio}`}} target="_blank"><button className="btn btn-primary">Visiter cette page</button></Link>
+          <button className="btn btn-primary" onClick={() => window.open(`${dataportfolio.lienfolio}`,"_blank")}>Visiter cette page</button>
         </div>
       </div>
     </div>
