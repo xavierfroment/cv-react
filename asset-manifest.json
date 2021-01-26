@@ -1,33 +1,34 @@
 {
   "files": {
     "main.css": "/cv-react/static/css/main.f0fcd6c4.chunk.css",
-    "main.js": "/cv-react/static/js/main.83523bc2.chunk.js",
-    "main.js.map": "/cv-react/static/js/main.83523bc2.chunk.js.map",
-    "runtime-main.js": "/cv-react/static/js/runtime-main.41638a97.js",
-    "runtime-main.js.map": "/cv-react/static/js/runtime-main.41638a97.js.map",
-    "static/js/2.fa6a6dbc.chunk.js": "/cv-react/static/js/2.fa6a6dbc.chunk.js",
-    "static/js/2.fa6a6dbc.chunk.js.map": "/cv-react/static/js/2.fa6a6dbc.chunk.js.map",
+    "main.js": "/cv-react/static/js/main.4893edcc.chunk.js",
+    "main.js.map": "/cv-react/static/js/main.4893edcc.chunk.js.map",
+    "runtime-main.js": "/cv-react/static/js/runtime-main.f1be4056.js",
+    "runtime-main.js.map": "/cv-react/static/js/runtime-main.f1be4056.js.map",
+    "static/js/2.aa0739d0.chunk.js": "/cv-react/static/js/2.aa0739d0.chunk.js",
+    "static/js/2.aa0739d0.chunk.js.map": "/cv-react/static/js/2.aa0739d0.chunk.js.map",
     "static/css/3.de424728.chunk.css": "/cv-react/static/css/3.de424728.chunk.css",
     "static/js/3.0a62423c.chunk.js": "/cv-react/static/js/3.0a62423c.chunk.js",
     "static/js/3.0a62423c.chunk.js.map": "/cv-react/static/js/3.0a62423c.chunk.js.map",
-    "static/css/4.f805cc15.chunk.css": "/cv-react/static/css/4.f805cc15.chunk.css",
-    "static/js/4.6e10a83a.chunk.js": "/cv-react/static/js/4.6e10a83a.chunk.js",
-    "static/js/4.6e10a83a.chunk.js.map": "/cv-react/static/js/4.6e10a83a.chunk.js.map",
+    "static/css/4.5ee758ca.chunk.css": "/cv-react/static/css/4.5ee758ca.chunk.css",
+    "static/js/4.462997d6.chunk.js": "/cv-react/static/js/4.462997d6.chunk.js",
+    "static/js/4.462997d6.chunk.js.map": "/cv-react/static/js/4.462997d6.chunk.js.map",
     "index.html": "/cv-react/index.html",
-    "precache-manifest.b301396a913acf4a5eeca4103ac25cb7.js": "/cv-react/precache-manifest.b301396a913acf4a5eeca4103ac25cb7.js",
+    "precache-manifest.f72b800495081a79ed1da4a594923446.js": "/cv-react/precache-manifest.f72b800495081a79ed1da4a594923446.js",
     "service-worker.js": "/cv-react/service-worker.js",
     "static/css/3.de424728.chunk.css.map": "/cv-react/static/css/3.de424728.chunk.css.map",
-    "static/css/4.f805cc15.chunk.css.map": "/cv-react/static/css/4.f805cc15.chunk.css.map",
+    "static/css/4.5ee758ca.chunk.css.map": "/cv-react/static/css/4.5ee758ca.chunk.css.map",
     "static/css/main.f0fcd6c4.chunk.css.map": "/cv-react/static/css/main.f0fcd6c4.chunk.css.map",
-    "static/js/2.fa6a6dbc.chunk.js.LICENSE.txt": "/cv-react/static/js/2.fa6a6dbc.chunk.js.LICENSE.txt",
+    "static/js/2.aa0739d0.chunk.js.LICENSE.txt": "/cv-react/static/js/2.aa0739d0.chunk.js.LICENSE.txt",
     "static/js/3.0a62423c.chunk.js.LICENSE.txt": "/cv-react/static/js/3.0a62423c.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/cv-react/static/media/bg.1e8fbf61.jpg"
+    "static/media/index.css": "/cv-react/static/media/bg.1e8fbf61.jpg",
+    "static/media/cvxavierfroment.pdf": "/cv-react/static/media/cvxavierfroment.d9e77c65.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.41638a97.js",
+    "static/js/runtime-main.f1be4056.js",
     "static/css/3.de424728.chunk.css",
     "static/js/3.0a62423c.chunk.js",
     "static/css/main.f0fcd6c4.chunk.css",
-    "static/js/main.83523bc2.chunk.js"
+    "static/js/main.4893edcc.chunk.js"
   ]
 }
