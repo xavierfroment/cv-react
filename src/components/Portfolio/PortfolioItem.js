@@ -6,7 +6,8 @@ const PortfolioItem = ({dataportfolio}) => (
       <div className="card-header">
         {dataportfolio.titre}
       </div>
-      <img src={`/${dataportfolio.preview}`} className="car-img-top p-3 m-auto" style={{width: "300px"}} alt={dataportfolio.altpreview}/>
+      <img src={window.location.origin + `/cv-react/${dataportfolio.preview}`} className="car-img-top p-3 m-auto" style={{width: "300px"}} alt={dataportfolio.altpreview}/>
+
       <div className="card-body">
         <p>Description :</p>
         <p>{dataportfolio.desc}</p>
