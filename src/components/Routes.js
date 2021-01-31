@@ -6,7 +6,7 @@ import Experiences from './Parcours/Experiences';
 import Skills from './Competences/Skills';
 import Portfolio from './Portfolio/Portfolio';
 import About from './APropos/About';
-//import ErrorPage from './Erreurs/ErrorPage';
+import ErrorPage from './Erreurs/ErrorPage';
 
 class Routes extends Component {
   render() {
@@ -19,7 +19,7 @@ class Routes extends Component {
           <Route path="/skills" component={Skills} />
           <Route path="/portfolio" component={Portfolio}/>
           <Route path="/about" component={About} />
-          {/*<Route component={ErrorPage}/>*/}
+          <Route component={ErrorPage}/>
         </Switch> 
       </Router> 
     )

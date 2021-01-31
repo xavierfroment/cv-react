@@ -8,6 +8,10 @@
   border-bottom: 4px solid #007bff;
 }
 
+.nav-link {
+  border-bottom: 4px solid #343a40;
+}
+
 .navbar {
   padding-bottom: 0;
 }
