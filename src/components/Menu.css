@@ -1,17 +1,7 @@
 .nav-link.active {
-  background: #444;
-  border-bottom: 4px solid #007bff;
+  background: #555;
 }
 
 .nav-link:hover {
   background: #333;
-  border-bottom: 4px solid #007bff;
-}
-
-.nav-link {
-  border-bottom: 4px solid #343a40;
-}
-
-.navbar {
-  padding-bottom: 0;
 }
