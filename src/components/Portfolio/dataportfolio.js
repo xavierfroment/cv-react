@@ -4,11 +4,19 @@ const dataportfolio = [
     preview: "jpg/cvold.png",
     altpreview: "Ancien cv",
     lienfolio: "https://xavierfroment.github.io/cvold",
-    titre: "Premier Site CV (2019)",
+    titre: "Premier Site CV",
     desc: "CV réalisé en HTML, CSS et JavaScript dans le cadre de la formation de développeur web."
   },
   {
     id: 2,
+    preview: "jpg/lmjoc.png",
+    altpreview: "La maison jungle",
+    lienfolio: "https://xavierfroment.github.io/lamaisonjungle-openclassrooms",
+    titre: "La maison jungle",
+    desc: "Projet réalisé avec la formation ReactJS disponible sur le site OpenClassrooms."
+  },
+  {
+    id: 3,
     preview: "jpg/colorshade.png",
     altpreview: "Mon nuancier",
     lienfolio: "https://xavierfroment.github.io/color-shade/",
@@ -16,7 +24,7 @@ const dataportfolio = [
     desc: "Projet réalisé en React.JS avec la bibliothèque Values.JS, pour vous aider dans vos choix de couleurs."
   },
   {
-    id: 2,
+    id: 4,
     preview: "jpg/adoptapet.png",
     altpreview: "Adopt'a pet",
     lienfolio: "https://xavierfroment.github.io/adopt-a-pet/",
