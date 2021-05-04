@@ -13,7 +13,7 @@ const dataportfolio = [
     altpreview: "La maison jungle",
     lienfolio: "https://xavierfroment.github.io/lamaisonjungle-openclassrooms",
     titre: "La maison jungle",
-    desc: "Projet réalisé avec la formation ReactJS disponible sur le site OpenClassrooms."
+    desc: "Projet réalisé avec la formation ReactJS disponible sur le site OpenClassrooms. Très bonne formation."
   },
   {
     id: 3,
