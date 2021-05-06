@@ -28,7 +28,7 @@ const dataportfolio = [
     preview: "jpg/adoptapet.png",
     altpreview: "Adopt'Un Ami",
     lienfolio: "https://xavierfroment.github.io/adopt-a-pet/",
-    titre: "Adopt'A Pet",
+    titre: "Adopt'Un Ami",
     desc: "Démo de site pour l'adoption d'animaux, réalisé en React.JS avec du Bootstrap 4 pour le visuel."
   }
   /*ADD SOME DATA HERE !! */ 
