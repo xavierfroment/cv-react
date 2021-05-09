@@ -11,6 +11,7 @@ const Portfolio = () => {
       <br/>
       <br/>
       <p>Du contenu sera ajouté progressivement dans cette section</p>
+      <br/>
     </div>
   )
 }

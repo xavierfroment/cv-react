@@ -1,5 +1,6 @@
 import React from 'react';
-import Progress from './Progress';
+import Languages from './Languages';
+import Progress from './Progress/Progress';
 import SavoirFaire from './SavoirFaire';
 
 const Skills = () => {
@@ -9,6 +10,8 @@ const Skills = () => {
       <br/>
       <br/>
       <Progress/>
+      <br/>
+      <Languages/>
       <br/>
       <SavoirFaire/>
       <br/>
