@@ -33,8 +33,8 @@ function Languages() {
             <h5 className="card-header text-center text-light">Environnement</h5>
             <div className="card-body">
               <div className="mb-3"><SiVisualstudiocode size={30} style={{color:"#3790c8"}}/> <span className="text-light"> Visual Studio Code</span></div>
-              <div className="mb-3"><FaGitAlt size={30} style={{color:"#ffffff"}}/> <span className="text-light"> Git</span></div>
-              <div className="mb-3"><FaGithub size={30} style={{color:"#e84e31"}}/> <span className="text-light"> Github</span></div>
+              <div className="mb-3"><FaGitAlt size={30} style={{color:"#e84e31"}}/> <span className="text-light"> Git</span></div>
+              <div className="mb-3"><FaGithub size={30} style={{color:"#ffffff"}}/> <span className="text-light"> Github</span></div>
               <div><SiAdobephotoshop size={30} style={{color:"#8c327b"}}/> <span className="text-light"> Photoshop</span></div>
             </div>
           </div>
