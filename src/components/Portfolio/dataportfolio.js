@@ -37,7 +37,7 @@ const dataportfolio = [
     preview: "jpg/matodolist.png",
     altpreview: "Ma Todo-List",
     lienfolio: "https://xavierfroment.github.io/matodolist/",
-    titre: "Mon Nuancier",
+    titre: "Ma Todo-List",
     desc: "Projet réalisé en React.JS avec quelques icones de la bibliothèque react-icons. On peut créer, éditer, supprimer des tâches."
   },
   {
