@@ -34,6 +34,14 @@ const dataportfolio = [
   },
   {
     id: 5,
+    preview: "jpg/matodolist.png",
+    altpreview: "Ma Todo-List",
+    lienfolio: "https://xavierfroment.github.io/matodolist/",
+    titre: "Mon Nuancier",
+    desc: "Projet réalisé en React.JS avec quelques icones de la bibliothèque react-icons. On peut créer, éditer, supprimer des tâches."
+  },
+  {
+    id: 6,
     preview: "jpg/adoptapet.png",
     altpreview: "Adopt'Un Ami",
     lienfolio: "https://xavierfroment.github.io/adopt-a-pet/",
@@ -41,7 +49,7 @@ const dataportfolio = [
     desc: "Démo de site pour l'adoption d'animaux, réalisé en React.JS avec du Bootstrap 4 pour le visuel."
   },
   {
-    id: 6,
+    id: 7,
     preview: "jpg/mousepad.png",
     altpreview: "MousePAD",
     lienfolio: "https://xavierfroment.github.io/mousepad/",
