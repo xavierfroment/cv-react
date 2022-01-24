@@ -23,7 +23,12 @@ const ScrollTop = () => {
 
   return (
     <div>
-      <FaArrowCircleUp fill="white" className="scrollUp" onClick={scrollUp} style={{height: 40, display: showScroll ? 'flex' : 'none'}}/>
+      <FaArrowCircleUp 
+        fill="white" 
+        className="scrollUp" 
+        onClick={scrollUp} 
+        style={{height: 40, display: showScroll ? 'flex' : 'none'}}
+      />
     </div>
   )
 }

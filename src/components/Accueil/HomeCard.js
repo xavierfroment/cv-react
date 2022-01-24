@@ -6,7 +6,7 @@ const HomeCard = () => {
       <div className="col-8 text-white parent" >
           <p className="text-light welcomeTitle">Bonjour,</p>
           <p className="myName">Xavier FROMENT</p>
-          <p className="text-light welcomeTitle">Développeur web front-end junior</p>
+          <p className="text-light welcomeTitle">Développeur ReactJS junior</p>
       </div> 
     </div>
   )

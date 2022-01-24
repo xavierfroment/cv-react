@@ -1,6 +1,5 @@
 import React from 'react';
 import WhoAmI from './WhoAmI';
-import Hobbies from './Hobbies';
 import Social from './Social';
 import './About.css';
 
@@ -11,8 +10,7 @@ const About = () => {
       <br />
       <br />
       <WhoAmI/>
-      <br />      
-      <Hobbies/>
+      <br/>
       <br/>
       <Social/>
       <br/>
