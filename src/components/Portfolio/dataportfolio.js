@@ -9,23 +9,38 @@ const dataportfolio = [
   },
   {
     id: 2,
+    preview: "jpg/notremenu.png",
+    altpreview: "Notre Menu",
+    lienfolio: "https://xavierfroment.github.io/notremenu/",
+    titre: "Notre Menu",
+    desc: "Page html réalisée en HTML et CSS et JavaScript pour un menu de restaurant. Ce site est une démo. "
+  },
+  {
+    id: 3,
     preview: "jpg/savethebeach.png",
     altpreview: "Save the Beach",
     lienfolio: "https://xavierfroment.github.io/savethebeach/",
     titre: "Save the Beach",
-    desc: "Page html réalisée en HTML et CSS. Ce site est une démo. "
+    desc: "Page html réalisée en HTML et CSS, pour la préservation des plages. Ce site est une démo. "
   },
-
   {
-    id: 3,
+    id: 4,
+    preview: "jpg/partonsaventure.png",
+    altpreview: "Aventures",
+    lienfolio: "https://xavierfroment.github.io/aventure/",
+    titre: "Aventures",
+    desc: "Page html réalisée en HTML et CSS et JavaScript pour un site de voyage/randonnée. Ce site est une démo. "
+  },
+  {
+    id: 5,
     preview: "jpg/lmjoc.png",
     altpreview: "La maison jungle",
     lienfolio: "https://xavierfroment.github.io/lamaisonjungle-openclassrooms",
     titre: "La maison jungle",
-    desc: "Projet réalisé avec la formation ReactJS disponible sur le site OpenClassrooms. Très bonne formation."
+    desc: "Projet réalisé avec la formation ReactJS disponible sur le site OpenClassrooms. Très bonne formation pour débuter."
   },
   {
-    id: 4,
+    id: 6,
     preview: "jpg/colorshade.png",
     altpreview: "Mon nuancier",
     lienfolio: "https://xavierfroment.github.io/color-shade/",
@@ -33,7 +48,7 @@ const dataportfolio = [
     desc: "Projet réalisé en React.JS avec la bibliothèque Values.JS, pour vous aider dans vos choix de couleurs."
   },
   {
-    id: 5,
+    id: 7,
     preview: "jpg/matodolist.png",
     altpreview: "Ma Todo-List",
     lienfolio: "https://xavierfroment.github.io/matodolist/",
@@ -41,7 +56,7 @@ const dataportfolio = [
     desc: "Projet réalisé en React.JS avec quelques icones de la bibliothèque react-icons. On peut créer, éditer, supprimer des tâches."
   },
   {
-    id: 6,
+    id: 8,
     preview: "jpg/adoptapet.png",
     altpreview: "Adopt'Un Ami",
     lienfolio: "https://xavierfroment.github.io/adopt-a-pet/",
@@ -49,7 +64,7 @@ const dataportfolio = [
     desc: "Démo de site pour l'adoption d'animaux, réalisé en React.JS avec du Bootstrap 4 pour le visuel."
   },
   {
-    id: 7,
+    id: 9,
     preview: "jpg/mousepad.png",
     altpreview: "MousePAD",
     lienfolio: "https://xavierfroment.github.io/mousepad/",
