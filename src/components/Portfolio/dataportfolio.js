@@ -33,6 +33,14 @@ const dataportfolio = [
   },
   {
     id: 5,
+    preview: "jpg/covidtracker.png",
+    altpreview: "Covid Tracker",
+    lienfolio: "https://xavierfroment.github.io/covidtracker/",
+    titre: "Covid Tracker",
+    desc: "Projet réalisé en HTML, CSS et Javascript avec une API, affichant les statistiques de la covid-19."
+  },
+  {
+    id: 6,
     preview: "jpg/lmjoc.png",
     altpreview: "La maison jungle",
     lienfolio: "https://xavierfroment.github.io/lamaisonjungle-openclassrooms",
@@ -40,7 +48,7 @@ const dataportfolio = [
     desc: "Projet réalisé avec la formation ReactJS disponible sur le site OpenClassrooms. Très bonne formation pour débuter."
   },
   {
-    id: 6,
+    id: 7,
     preview: "jpg/colorshade.png",
     altpreview: "Mon nuancier",
     lienfolio: "https://xavierfroment.github.io/color-shade/",
@@ -48,7 +56,7 @@ const dataportfolio = [
     desc: "Projet réalisé en React.JS avec la bibliothèque Values.JS, pour vous aider dans vos choix de couleurs."
   },
   {
-    id: 7,
+    id: 8,
     preview: "jpg/matodolist.png",
     altpreview: "Ma Todo-List",
     lienfolio: "https://xavierfroment.github.io/matodolist/",
@@ -56,7 +64,7 @@ const dataportfolio = [
     desc: "Projet réalisé en React.JS avec quelques icones de la bibliothèque react-icons. On peut créer, éditer, supprimer des tâches."
   },
   {
-    id: 8,
+    id: 9,
     preview: "jpg/adoptapet.png",
     altpreview: "Adopt'Un Ami",
     lienfolio: "https://xavierfroment.github.io/adopt-a-pet/",
@@ -64,7 +72,7 @@ const dataportfolio = [
     desc: "Démo de site pour l'adoption d'animaux, réalisé en React.JS avec du Bootstrap 4 pour le visuel."
   },
   {
-    id: 9,
+    id: 10,
     preview: "jpg/mousepad.png",
     altpreview: "MousePAD",
     lienfolio: "https://xavierfroment.github.io/mousepad/",
