@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a818c1a5d125a3ffce237f9b96b1d865",
+    "revision": "b72d12b50ff7cf3d5a05a0f662bd4c28",
     "url": "/cv-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv-react/static/css/3.b0704b7a.chunk.css"
   },
   {
-    "revision": "5201cbd64c014e0450d0",
+    "revision": "0a255bbbd073a4d3f1aa",
     "url": "/cv-react/static/css/4.1ec3ce4c.chunk.css"
   },
   {
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv-react/static/js/3.cb0debbe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5201cbd64c014e0450d0",
-    "url": "/cv-react/static/js/4.2f168678.chunk.js"
+    "revision": "0a255bbbd073a4d3f1aa",
+    "url": "/cv-react/static/js/4.405d45d8.chunk.js"
   },
   {
     "revision": "8e223e56c4675ea69879",
     "url": "/cv-react/static/js/main.30b04b93.chunk.js"
   },
   {
-    "revision": "25304341f9529ac68690",
-    "url": "/cv-react/static/js/runtime-main.f2f1d040.js"
+    "revision": "e40fb4f66ff9a002d767",
+    "url": "/cv-react/static/js/runtime-main.663da349.js"
   },
   {
     "revision": "782a0a6c317a1ddd3ccc46659531f887",
